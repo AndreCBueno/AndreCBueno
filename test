@@ -1,2 +1,2 @@
 import numpy as np
-print(np.arange(1,100)
+print(np.arange(1,100))
