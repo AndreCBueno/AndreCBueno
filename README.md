@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreCBueno
 - 👀 I’m interested in supply data science service
-- 🌱 I’m currently learning work on github
+- 🌱 I’m currently learning how to work on github
 - 💞️ I’m looking to collaborate on use ML to market forecast 
 - 📫 How to reach me [...](https://www.linkedin.com/in/andre-coutinho-bueno/)
 
